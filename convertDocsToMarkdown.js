@@ -4,7 +4,7 @@
 // 4. Get Folder IDs: Note down the folder IDs of your source and destination folders from their respective Google Drive URLs
 //        A folder ID is the alphanumeric string after https://drive.google.com/drive/folders/
 // 5. Enable the Drive API: In your Google Apps Script project, go to Services on the left sidebar, scroll down to find Drive API, and click Add
-// 6. Select the downloadAllDocsAsMarkdown function from the dropdown menu and click Run (play icon)
+// 6. Select the convertFolderDocsToMarkdown function from the dropdown menu and click Run (play icon)
 // 7. The first time you run it, you will be prompted to review permissions
 //        Click Review permissions, select your Google account, and click Allow. Or you may see a link to your app name under Advanced
 
